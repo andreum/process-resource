@@ -4,7 +4,7 @@ ThisBuild / organization     := "br.com.inbot"
 ThisBuild / organizationName := "Inbot"
 ThisBuild / versionScheme := Some("early-semver")
 
-val scalacheckEffectVersion = "1.0.4"
+val scalacheckEffectVersion = "2.1.0"
 
 DefaultOptions.addCredentials
 
